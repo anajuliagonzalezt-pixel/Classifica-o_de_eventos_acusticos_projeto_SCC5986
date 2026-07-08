@@ -1,0 +1,2 @@
+model_type,loss_strategy,mean_val_accuracy,mean_val_balanced_accuracy,mean_val_f1_macro,mean_val_top_3_accuracy,mean_val_top_5_accuracy
+vit_completa,class_balanced_loss,0.7940594059405941,0.598895496316549,0.5387245089791529,0.9188118811881189,0.9544554455445544
